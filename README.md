@@ -1,6 +1,6 @@
 # Hi 👋, I'm Bettson Kiptoo
 <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Bettson+Kiptoo+%F0%9F%91%8B%3B%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+++Full-Stack+Developer%3BSoftware+Engineer%3BStudent+@+ALX+Africa%3BProblem+Solver%3BCodebase%3A++Stable+" alt="Headline" />
-### 💻 Random Computer Quote
+# 💻 Random Computer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&category=computer)
 
