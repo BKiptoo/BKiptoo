@@ -35,14 +35,17 @@
 
 
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BKiptoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BKiptoo&theme=dark&hide_border=false)<br/>
 
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BKiptoo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BKiptoo&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
-
+[![wakatime](https://wakatime.com/badge/github/BKiptoo/BKiptoo.svg)](https://wakatime.com/badge/github/BKiptoo/BKiptoo)
 
 
 
