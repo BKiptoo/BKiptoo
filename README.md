@@ -19,7 +19,7 @@
 - 🌱 Passionate software engineer committed to continuous learning and technological advancement.
 - 🔭 Currently working on **Backend Development** and learning **PYTHON**.
 - 👯 Open to collaborating on **Frontend Projects**.
-- 💬 Tech stack: Version Control (Git, GitHub), HTML, CSS, JavaScript, C, Python,Php,Laravel.
+- 💬 Tech stack: Version Control (Git, GitHub), HTML, CSS, JavaScript, C, Python, PHP, Laravel.
 
 ## Contact
 
