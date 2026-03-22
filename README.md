@@ -38,11 +38,11 @@
 <hr/>
 <h2>🧪 Public Projects (selected)</h2>
 <ul>
-  <li><b>Portfolio</b> — Personal site & showcase → <a href="https://github.com/BKiptoo/my_portfolio">github.com/BKiptoo/my_portfolio</a> (or your live portfolio link if available)</li>
+  <!-- <li><b>Portfolio</b> — Personal site & showcase → <a href="https://github.com/BKiptoo/my_portfolio">github.com/BKiptoo/my_portfolio</a> (or your live portfolio link if available)</li>
   <li><b>[Your Project 1]</b> — Description of one public repo (replace with actual ones you have)</li>
-  <li><b>[Your Project 2]</b> — Another highlight repo</li>
+  <li><b>[Your Project 2]</b> — Another highlight repo</li> -->
 </ul>
-<p><em>Add your actual public repos here — feel free to list real ones from github.com/BKiptoo</em></p>
+<!-- <p><em>Add your actual public repos here — feel free to list real ones from github.com/BKiptoo</em></p> -->
 <hr/>
 <h2>🧰 Languages & Tools</h2>
 <p align="center">
